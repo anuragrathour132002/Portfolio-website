@@ -169,9 +169,9 @@ section .title::after{
 }
 .home{
     display: flex;
-    /* background: url("images/hay.jpeg") no-repeat center; */
+    background: url("b.jpeg") no-repeat center; 
 
-    background-color: rgb(6, 168, 232);
+    /*background-color: rgb(6, 168, 232);*/
     height: 100vh;
     color: #fff;
     min-height: 500px;
